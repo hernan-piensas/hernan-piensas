@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hernán Asorey (@hernan-piensas)
+- 👀 I’m interested in Internet of Things (IoT), Big Data Analysis, Artificial Intelligence (AI), Web3 and Blockchain (ETH), and project management (PM)
+- 💞️ I’m looking to collaborate on the search for solutions for the agrifoodtech sector
+- 🌱 I am co-founder and CEO of [piensas.xyz](https://piensas.xyz) and co-founder and CTO of [The Food Chainers](thefoodchainers.io)
+- 📫 You can reach me by email at [hernan@piensas.xyz](mailto:hernan@piensas.xyz) and in my page: [Hernan Asorey](piensas.xyz/hernan)
