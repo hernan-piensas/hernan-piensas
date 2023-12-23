@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hernán Asorey (@hernan-piensas)
-- 👀 I’m interested in Internet of Things (IoT), Big Data Analysis, Artificial Intelligence (AI), Web3 and Blockchain (ETH), and project management (PM)
-- 💞️ I’m looking to collaborate on the search for solutions for the agrifoodtech sector
-- 🌱 I am co-founder and CEO of [piensas.xyz](https://piensas.xyz) and co-founder and CTO of [The Food Chainers](thefoodchainers.io)
-- 📫 You can reach me by email at [hernan@piensas.xyz](mailto:hernan@piensas.xyz) and in my page: [Hernan Asorey](piensas.xyz/hernan)
+- 👋 Hello, I'm **Hernán Asorey** (@hernan-piensas), a dedicated innovator in scientific applications and technology.
+- 🔍 **Interests:** IoT, Big Data, AI, Web3, Blockchain, and Project Management. I focus on the social impact of technology and have over 20 years of experience in fields like numerical modeling, digital twins, and IoT.
+- 🌱 **Piensas & The Food Chainers:** As Co-founder and CEO of [Piensas](https://piensas.xyz), and Co-founder and CTO of [The Food Chainers](http://thefoodchainers.io), I'm committed to innovative solutions in technology and agrifoodtech.
+- 🎓 **Education & Mentorship:** Passionate educator and mentor, I've been shaping minds in physics since 2009 and have authored 'Physics 1A: From Galaxies to Quarks.' I hold a PhD in Physics from the Balseiro Institute, Universidad Nacional de Cuyo, Argentina.
+- 🤝 **Connect with me:** on [LinkedIn](https://www.linkedin.com/in/asoreyh/) or my [Personal Profile](https://piensas.xyz/hernan-asorey). For further discussion or collaboration, email me at [hernan@piensas.xyz](mailto:hernan@piensas.xyz).
